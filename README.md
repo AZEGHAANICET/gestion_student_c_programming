@@ -1,4 +1,5 @@
 # 📚 Application de Gestion Universitaire
+![Texte alternatif](images/accueil.png)
 
 Bienvenue dans l'Application de Gestion Universitaire, réalisée pour l'Institut Universitaire Saint Jean! 🚀
 
