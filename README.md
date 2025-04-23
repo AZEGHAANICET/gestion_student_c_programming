@@ -17,8 +17,10 @@ Cette application de gestion étudiante offre une suite complète de fonctionnal
 - **Ajout Étudiant**: Permet d'enregistrer les informations détaillées des étudiants.
 - **Ajout Matière**: Ajoutez de nouvelles matières avec facilité.
 - **Saisie de Notes**: Enregistrez les notes des étudiants dans une matière spécifique.
+- ![Texte alternatif](images/level.png)
 
-### 2. Edition ✏️
+### 2. Consultation✏️
+
 - **Liste d'un Niveau**: Visualisez les étudiants d'un niveau spécifique.
 - **Liste des Matières**: Accédez à une liste complète des matières enregistrées.
 
@@ -26,6 +28,7 @@ Cette application de gestion étudiante offre une suite complète de fonctionnal
 - **Pourcentage de Réussite**: Calculez le pourcentage de réussite d'une matière dans un niveau donné.
 - **Meilleur Étudiant**: Identifiez le meilleur étudiant de chaque niveau.
 - **Étudiant le Plus Faible**: Trouvez l'étudiant avec le score le plus bas dans un niveau.
+- ![Texte alternatif](images/stats.png)
 
 ### 4. Gestion des Utilisateurs 👥
 - **Créer un Nouveau Compte**: Créez et gérez des comptes utilisateurs sécurisés.
@@ -33,9 +36,11 @@ Cette application de gestion étudiante offre une suite complète de fonctionnal
 
 ### 5. Relevé de Notes 📋
 - **Relevé Académique**: Génération et affichage de relevés de notes complets pour les étudiants sur la base de leur matricule.
+- ![Texte alternatif](images/releve_de_note.png)
 
 ### 6. Sécurité et Connexion 🔐
 - **Connexion Sécurisée**: Accédez à l'application en toute sécurité avec des identifiants et mots de passe vérifiés.
+- ![Texte alternatif](images/login.png)
 
 ---
 
